@@ -1,4 +1,5 @@
 ---
+title: About
 seo:
   title: Centurions
 content:
