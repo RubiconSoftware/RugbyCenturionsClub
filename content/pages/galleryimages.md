@@ -1,5 +1,7 @@
 ---
 title: galleryImages
+seo:
+  title: galleryImages
 content:
   - featured_image: /content/media/ourprogramme.jpg
   - featured_image: /content/media/bronzeaward.jpg
