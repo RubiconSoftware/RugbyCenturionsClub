@@ -1,7 +1,7 @@
 ---
 title: Programme
 content:
-  - featured_image: ''
+  - featured_image: /content/media/bronzeaward.jpg
     title: Bronze Award
     body: >-
       The Bronze Award is aimed at 11-13 year olds (boys & girls) and provides
@@ -46,7 +46,7 @@ content:
 
 
       Ages 11-14
-  - featured_image: ''
+  - featured_image: /content/media/goldaward.jpg
     title: Gold Award
     body: >-
       Our special Counselor in Training Program is a great option for campers
