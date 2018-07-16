@@ -63,15 +63,15 @@ content:
   - featured_image: /content/media/ourvalues.jpg
     title: Our Values
     body: |
-      Leadership
+      *Leadership
 
-      Courage
+      *Courage
 
-      Selfless Commitment
+      *Selfless Commitment
 
-      Resilience
+      *Resilience
 
-      Respect
+      *Respect
   - featured_image: /content/media/ourprogramme.jpg
     title: Our Programme
     body: >-
