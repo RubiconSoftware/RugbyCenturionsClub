@@ -71,7 +71,7 @@ content:
 
       * Resilience
 
-      *Respect
+      * Respect
   - featured_image: /content/media/ourprogramme.jpg
     title: Our Programme
     body: >-
