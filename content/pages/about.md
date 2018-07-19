@@ -3,7 +3,7 @@ title: About
 seo:
   title: Centurions
 content:
-  - featured_image: /content/media/aboutus.jpg
+  - featured_image: /content/media/700723139-1024x1024.jpg
     title: About Us
     body: >-
       The Rugby Centurions brings together the world’s most respected rugby
