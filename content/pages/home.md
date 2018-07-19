@@ -32,7 +32,7 @@ content:
 
 
       Leadership Education delivered by instructors with military experience
-  - featured_image: /content/media/thevenue.jpg
+  - featured_image: /content/media/PTWICF.jpg
     title: The Venue
     body: >-
       The Future Leaders Course is at the cutting edge in delivering the most
