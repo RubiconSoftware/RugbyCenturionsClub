@@ -5,7 +5,7 @@ seo:
 content:
   - featured_image: /content/media/91006289-1024x1024.jpg
     title: Our Mission
-    body: "To educate, inspire, mentor and transfer key leadership skills to the next generation.\n\n\rWe aim to:\n* Create a Leadership Programme accessible to all which can be delivered on a global scale\n\n* Create an Alumni of Future Leaders<\n\n* Be financially stable and reinvest profits into rugby and leadership education\n\n* Create the first movement for Centurion Celebration"
+    body: "To educate, inspire, mentor and transfer key leadership skills to the next generation.\n\n\rWe aim to:\n* Create a Leadership Programme accessible to all which can be delivered on a global scale\n\n* Create an Alumni of Future Leaders\n\n* Be financially stable and reinvest profits into rugby and leadership education\n\n* Create the first movement for Centurion Celebration"
   - featured_image: /content/media/B0GNJR.jpg
     title: Our Values
     body: |
