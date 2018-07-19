@@ -23,7 +23,7 @@ content:
 
 
       Ages 9-12
-  - featured_image: /content/media/D77CPX.jpg
+  - featured_image: /content/media/200533579-003-1024x1024.jpg
     title: Silver Award
     body: >-
       Our Leadership Training Program allows our active campers to focus on what
@@ -46,7 +46,7 @@ content:
 
 
       Ages 11-14
-  - featured_image: /content/media/B62YR2.jpg
+  - featured_image: /content/media/B0GNJR.jpg
     title: Gold Award
     body: >-
       Our special Counselor in Training Program is a great option for campers
