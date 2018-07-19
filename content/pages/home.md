@@ -32,7 +32,7 @@ content:
 
 
       Leadership Education delivered by instructors with military experience
-  - featured_image: /content/media/twickenham-tail.jpg
+  - featured_image: /content/media/BR30YN.jpg
     title: The Venue
     body: >-
       The Future Leaders Course is at the cutting edge in delivering the most
