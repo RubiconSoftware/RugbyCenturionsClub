@@ -23,7 +23,7 @@ content:
 
 
       Ages 9-12
-  - featured_image: /content/media/200533579-003-1024x1024.jpg
+  - featured_image: /content/media/DKBA7J.jpg
     title: Silver Award
     body: >-
       Our Leadership Training Program allows our active campers to focus on what
