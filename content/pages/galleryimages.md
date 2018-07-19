@@ -3,9 +3,9 @@ title: galleryImages
 seo:
   title: galleryImages
 content:
-  - featured_image: /content/media/166152829-1024x1024.jpg
-    title: '1'
   - featured_image: /content/media/648943804-1024x1024.jpg
+    title: '1'
+  - featured_image: /content/media/166152829-1024x1024.jpg
     title: '2'
   - featured_image: /content/media/665406617-1024x1024.jpg
     title: '3'
