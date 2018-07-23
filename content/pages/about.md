@@ -21,5 +21,8 @@ content:
       The programme is designed and developed around the values of being a
       Centurion. These values will be at the very heart of the programme where
       we will be developing leadership skills both on and off the pitch.
+  - featured_image: /content/media/156265302.jpg
+    title: Title
+    body: dsafa
 ---
 
