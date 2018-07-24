@@ -37,17 +37,9 @@ believe in equal treatment and opportunity for all.
   - featured_image: /content/media/533530689-1024x1024.jpg
     title: Our Programme
     body: >-
-      Future Leaders Programme  for children aged between 9-16 commencing in
-      England
+      
+      The Centurions have created a programme which enables each individual to maximise their learning potenital so that you can be the best you can be. We provide a fun and healthy environment which is supported by highly motivated coaches which provide excellent individual care and attention. The programme is delivered over three Awards: Bronze, Silver and Gold.
 
-
-      Combining Rugby and Leadership Skills
-
-
-      Rugby Education in Partnership with the School of Hard Knocks
-
-
-      Leadership Education delivered by instructors with military experience
   - featured_image: /content/media/BR30YN.jpg
     title: The Venue
     body: >-
@@ -59,21 +51,8 @@ believe in equal treatment and opportunity for all.
       all that attend.
 
 
-      The venues:
+   
 
 
-      * Twickenham, London, UK
-
-      * London Irish, London, UK
-
-      * Saracens, London, UK
-
-      * Principality Stadium, Wales, UK
-
-      * Cardiff Blues, Wales, UK
-
-      * Murrayfield Stadium, Scotland, UK
-
-      * Ballymuir stadium, Scotland, UK
 ---
 
