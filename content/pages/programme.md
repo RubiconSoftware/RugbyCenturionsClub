@@ -2,44 +2,19 @@
 title: Programme
 content:
   - featured_image: /content/media/143256317-1024x1024.jpg
+    title: The Programme
+    body: >-
+ 
+      The Centurions have created a programme which enables each individual to maximise their learning potenital so that you    can be the best you can be.  We provide a fun and healthy environment which is supported by highly motivated coaches which provide excellent individual care and attention. The programme is delivered over three Awards: Bronze, Silver and Gold.   
+      
+  
+  - featured_image: /content/media/DKBA7J.jpg
     title: Bronze Award
     body: >-
-      The Bronze Award is aimed at 11-13 year olds (boys & girls) and provides
-      an opportunity to develop your skills both on and off the pitch. We
-      welcome all abilities on to the programme and tailor our activities to
-      suit
+      The Bronze Award is aimed at children between the ages of 11 and 13.  During the Award you will improve your self-confidence and independance whilst having the opportinity to lead and inspire others. We will encourage their natural skills and leadership style and help them identify any areas that they may wish to develop in the future. During each day we will build their skills through daily physcical and mental challenges both on and off the pitch. The Award is a 5 day programme which is delivered in two parts. Days 1 and 2 are delivered at the Home of Rugby, Twickenham and days 3 to 5 are delivered at London Irish 
 
 
-      Focus on the “Team”
-
-
-      Commences @ Twickenham Oct 2018
-
-
-      6 Day programme (3x2 days)
-
-
-      Online engagement activities throughout programme
-
-
-      Ages 9-12
-  - featured_image: /content/media/DKBA7J.jpg
-    title: Silver Award
-    body: >-
-      Our Leadership Training Program allows our active campers to focus on what
-      they love most. Campers have an option of attending k for a variety of
-      lengths depending on their age and preferences. Each of our programs
-      provides our campers with an unforgettable experience of growth and
-      friendship.
-
-
-      Focus on the “Individual”
-
-
-      Commences @ Twickenham 2019
-
-
-      6 Day programme (3x2 days)
+    
 
 
       Online engagement activities throughout programme
