@@ -7,33 +7,29 @@ content:
     title: Our Mission
     body: 
     
-    To educate, inspire, mentor and transfer key leadership skills to the next generation. 
-    
-    We aim to:
+      To educate, inspire, mentor and transfer key leadership skills to the next generation. 
+      
+      We aim to&#58;
 
-    * Create a Leadership Programme accessible to all which can be delivered on a global scale
+      * Create a Leadership Programme accessible to all which can be delivered on a global scale
 
-    * Create an Alumni of Future Leaders
+      * Create an Alumni of Future Leaders
 
-    * Devlop individuals leadership skills regardless of level or ability
+      * Develop individuals leadership skills regardless of level or ability
 
   - featured_image: /content/media/B0GNJR.jpg
     title: Our Values
     body: |
-      * Leadership. Leaders create leaders. For the team to be truly successful we 
-believe in developing leadership at all levels. 
+      * Leadership. Leaders create leaders. For the team to be truly successful we believe in developing leadership at all levels. 
 
-      * Courage.  We put the needs of the team ahead of the needs of our 
-own.
+      * Courage.  We put the needs of the team ahead of the needs of our own.
 
-      * Selfless Commitment.  We have the physical and mental courage to possess confidence, 
-bravery and resolution when faced with danger or fear.
+      * Selfless Commitment.  We have the physical and mental courage to possess confidence, bravery and resolution when faced with danger or fear.
 
       * Resilience.  Our strength of character to overcome adversity and bounce back.
 
-      * Respect.  We respect those people who we train with and compete against. We 
-believe in equal treatment and opportunity for all.
-      
+      * Respect.  We respect those people who we train with and compete against. We believe in equal treatment and opportunity for all.
+
   - featured_image: /content/media/533530689-1024x1024.jpg
     title: Our Programme
     body: >-
