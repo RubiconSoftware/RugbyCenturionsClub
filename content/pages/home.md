@@ -9,7 +9,7 @@ content:
       To educate, inspire, mentor and transfer key leadership skills to the next
       generation.
 
-      We aim to
+      We aim to:
 
 
       * Create a Leadership Programme accessible to all which can be delivered
