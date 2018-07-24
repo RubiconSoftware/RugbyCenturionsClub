@@ -1,13 +1,6 @@
 ---
-title: Programme
-content:
-  - featured_image: /content/media/143256317-1024x1024.jpg
-    title: The Programme
-    body: >-
- 
-      The Centurions have created a programme which enables each individual to maximise their learning potenital so that you    can be the best you can be.  We provide a fun and healthy environment which is supported by highly motivated coaches which provide excellent individual care and attention. The programme is delivered over three Awards: Bronze, Silver and Gold.   
-      
-  
+title: Awards
+
   - featured_image: /content/media/DKBA7J.jpg
     title: Bronze Award
     body: >-
