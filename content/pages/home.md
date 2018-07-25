@@ -3,6 +3,15 @@ title: Home
 seo:
   title: Home
 content:
+  - featured_image: /content/media/533530689-1024x1024.jpg
+    title: Our Programme
+    body: >-
+
+      The Centurions have created a programme which enables each individual to
+      maximise their learning potenital so that you can be the best you can be.
+      We provide a fun and healthy environment which is supported by highly
+      motivated coaches which provide excellent individual care and attention.
+      The programme is delivered over three Awards: Bronze, Silver and Gold.
   - featured_image: /content/media/91006289-1024x1024.jpg
     title: Our Mission
     body: >-
@@ -20,7 +29,7 @@ content:
       * Create an Alumni of Future Leaders
 
       * Develop individuals leadership skills regardless of level or ability
-  - featured_image: /content/media/B0GNJR.jpg
+  - featured_image: ''
     title: Our Values
     body: >
       * Leadership. Leaders create leaders. For the team to be truly successful
@@ -40,17 +49,8 @@ content:
 
       * Respect.  We respect those people who we train with and compete against.
       We believe in equal treatment and opportunity for all.
-  - featured_image: /content/media/533530689-1024x1024.jpg
-    title: Our Programme
-    body: >-
-
-      The Centurions have created a programme which enables each individual to
-      maximise their learning potenital so that you can be the best you can be.
-      We provide a fun and healthy environment which is supported by highly
-      motivated coaches which provide excellent individual care and attention.
-      The programme is delivered over three Awards: Bronze, Silver and Gold.
   - featured_image: /content/media/BR30YN.jpg
-    title: The Venue
+    title: Our Venue
     body: >-
       The Future Leaders Course is at the cutting edge in delivering the most
       exclusive experience possible. Coaching, leadership and development
