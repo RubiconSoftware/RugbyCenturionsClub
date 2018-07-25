@@ -3,7 +3,9 @@ title: About
 seo:
   title: Centurions
 content:
-  - featured_image: /content/media/156265257-1024x1024.jpg
+  - featured_image: >-
+      /content/media/richie McCaw profile side New Zealand All Blacks rugby Team
+      c2015 Howard Cleland 002.jpg
     title: About Us
     body: >-
       The Rugby Centurions brings together the world’s most respected rugby
