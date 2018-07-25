@@ -1,7 +1,7 @@
 ---
 title: Awards
 seo:
-  title: Programme
+  title: Awards
 content:
   - featured_image: /content/media/DKBA7J.jpg
     title: Bronze Award
