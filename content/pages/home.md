@@ -12,7 +12,9 @@ content:
       We provide a fun and healthy environment which is supported by highly
       motivated coaches which provide excellent individual care and attention.
       The programme is delivered over three Awards: Bronze, Silver and Gold.
-  - featured_image: /content/media/91006289-1024x1024.jpg
+  - featured_image: >-
+      /content/media/All Black HAKA  Boks vs All Blacks Dbn Jul c2009 H
+      Cleland.jpg
     title: Our Mission
     body: >-
       To educate, inspire, mentor and transfer key leadership skills to the next
