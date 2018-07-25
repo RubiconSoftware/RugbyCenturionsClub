@@ -3,7 +3,7 @@ title: Home
 seo:
   title: Home
 content:
-  - featured_image: /content/media/533530689-1024x1024.jpg
+  - featured_image: ''
     title: Our Programme
     body: >-
 
