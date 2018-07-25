@@ -51,7 +51,7 @@ content:
 
       * Respect.  We respect those people who we train with and compete against.
       We believe in equal treatment and opportunity for all.
-  - featured_image: /content/media/BR30YN.jpg
+  - featured_image: /content/media/thevenue.jpg
     title: Our Venue
     body: >-
       The Future Leaders Course is at the cutting edge in delivering the most
