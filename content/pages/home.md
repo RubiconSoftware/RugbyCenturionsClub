@@ -1,10 +1,10 @@
 ---
 title: Home
+header: "# Learn to Lead and Play\r\r\n## The Centurions Way\r\n\r<a class=\"btn\" href=\"/book\">Book Now</a>"
 seo:
   title: Home
 content:
-  - featured_image: ''
-    title: Our Programme
+  - title: Our Programme
     body: >-
 
       The Centurions have created a programme which enables each individual to
@@ -12,10 +12,8 @@ content:
       We provide a fun and healthy environment which is supported by highly
       motivated coaches which provide excellent individual care and attention.
       The programme is delivered over three Awards: Bronze, Silver and Gold.
-  - featured_image: >-
-      /content/media/All Black HAKA  Boks vs All Blacks Dbn Jul c2009 H
-      Cleland.jpg
-    title: Our Mission
+    featured_image: ''
+  - title: Our Mission
     body: >-
       To educate, inspire, mentor and transfer key leadership skills to the next
       generation.
@@ -31,8 +29,10 @@ content:
       * Create an Alumni of Future Leaders
 
       * Develop individuals leadership skills regardless of level or ability
-  - featured_image: ''
-    title: Our Values
+    featured_image: >-
+      /content/media/All Black HAKA  Boks vs All Blacks Dbn Jul c2009 H
+      Cleland.jpg
+  - title: Our Values
     body: >
       * Leadership. Leaders create leaders. For the team to be truly successful
       we believe in developing leadership at all levels. 
@@ -51,8 +51,8 @@ content:
 
       * Respect.  We respect those people who we train with and compete against.
       We believe in equal treatment and opportunity for all.
-  - featured_image: /content/media/thevenue.jpg
-    title: Our Venue
+    featured_image: ''
+  - title: Our Venue
     body: >-
       The Future Leaders Course is at the cutting edge in delivering the most
       exclusive experience possible. Coaching, leadership and development
@@ -60,5 +60,6 @@ content:
       importantly, the venues that used are that of the highest standard, used
       by the worlds best players to encompass an unforgettable experience for
       all that attend.
+    featured_image: /content/media/thevenue.jpg
 ---
 
