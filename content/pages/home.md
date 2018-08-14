@@ -1,6 +1,5 @@
 ---
 title: Home
-header: "# Learn to Lead and Play\r\r\n## The Centurions Way\r\n\r<a class=\"btn\" href=\"/book\">Book Now</a>"
 seo:
   title: Home
 content:
